@@ -1,11 +1,5 @@
-#include<iostream.h>
-#include<conio.h> //控制台数据输入输出的函数
-#include<fstream.h>//文件流
-#include<iomanip.h> //控制数据输出格式
-#include<string.h>
-#include<ctime>
-#include<stdio.h>
-#include<stdlib.h>
+#include<bits/stdc++.h>
+using namespace std;
 
 const int Maxr = 100;//最多的读者数
 const int Maxb = 100; //最多的图书数
